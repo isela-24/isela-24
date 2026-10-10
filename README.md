@@ -1,16 +1,36 @@
-## Hi there 👋
+# Portfolio
 
-<!--
-**isela-24/isela-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills 
 
-Here are some ideas to get you started:
+- Python
+- SQL
+- Tableau
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [Medicare Reimbursement Chart](https://github.com/isela-24/medicare-reimbursements)
+
+  Identified DRGs (Diagnostic Related Groups) at Cedars-Sinai Medical Center that received lower reimbursements from Medicare compared to peer hospitals, using public data from the Centers for Medicare and Medicaid Services
+
+    <a href="https://public.tableau.com/app/profile/isela.tamayo/viz/MedicareReimbursementperDRG/Dashboard">
+    <img src="images/medicare_dashboard.png" height="400" alt="Medicare Dashboard Preview">
+    </a>
+
+<br>
+
+- [Retail Performance Dashboard](https://github.com/isela-24/retail-weather-dashboard)
+
+  Built an interactive dashboard that examines how seasonality and weather affect consumer purchasing behavior across each state
+
+    <a href="https://public.tableau.com/app/profile/isela.tamayo/viz/Retail_Weather_dash/RetailWeatherDash">
+    <img src="images/retail_dashboard.png" height="400" alt="Retail Dashboard Preview">
+    </a>
+
+<br>
+
+- [View all my projects](https://github.com/isela-24?tab=repositories)
+
+  
+
+  
